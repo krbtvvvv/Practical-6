@@ -9,6 +9,9 @@
 ## Code Review
 
 - [Pull Request з кодом для рев'ю](https://github.com/krbtvvvv/Practical-6/pull/1)
+  
+## Тестування
+Тести написані з використанням Jest та запускаються автоматично через GitHub Actions.
 
 ## Документація API
 
