@@ -4,3 +4,6 @@
 
 ## Опис
 Практичне завдання з Code Review, Unit-тестування та документації API.
+## Документація API
+
+[Переглянути документацію в Swagger Editor](https://editor.swagger.io/?url=https://raw.githubusercontent.com/krbtvvvv/Practical-6/main/docs/api/openapi.yaml)
