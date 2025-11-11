@@ -8,7 +8,7 @@
 
 ## Code Review
 
-https://github.com/krbtvvvv/Practical-6/pull/1
+- [Pull Request з кодом для рев'ю] https://github.com/krbtvvvv/Practical-6/pull/1
 
 ## Документація API
 
